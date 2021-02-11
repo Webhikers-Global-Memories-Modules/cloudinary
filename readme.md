@@ -20,6 +20,6 @@
 8. Follow the [`cloudinary` docs](https://cloudinary.com/documentation/upload_widget#signed_uploads) to use your simple `Node.js` server to create the cloudinary upload widget signature.
 9. Configure the cloudinary widget to use cropping with an aspect ratio of 1:1
 10. Configure the cloudinary widget to accept only one image
-10. When you click on the `.image` html element, open the cloudinary upload widget
+10. When you click on the `.upload` html element, open the cloudinary upload widget
 11. When you successsfully uploaded an image, store the image into the dataset of `image.vue`. This should result in showing the `.upload__image` container and hiding the `upload__placeholder` container.
 
