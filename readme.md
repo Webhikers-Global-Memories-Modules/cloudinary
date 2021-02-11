@@ -5,7 +5,7 @@
 1. Setup a minimal `Node.js` server with `Express.js`
 2. Setup a minimal `Vue.js` application
 3. Create free [Cloudinary](https://cloudinary.com) test account
-4. Create `Vue.js` component called `image.vue`
+4. Create a `Vue.js` component called `image.vue`
 5. In `image.vue` create a simple html container without styling
 
 ```html
