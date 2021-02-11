@@ -1,4 +1,4 @@
-# cloudinary
+# cloudinary component
 
 **no styling or css is required for this task**
 
